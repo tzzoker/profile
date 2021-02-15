@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tzoker-73
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 tzoker-73/tzoker-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
