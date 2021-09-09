@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tzoker-73
+- 👋 Hi, I’m @tzoker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C
 
